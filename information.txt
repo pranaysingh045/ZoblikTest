@@ -1,0 +1,8 @@
+step 1:- First create a folder in you system
+step 2:- If you have install virtualenv then create a vitual enviroment if not install then create virtual env using command
+'virtualenv enviroment_name'
+step 3:- Start enviroment
+step 4:- clone project using 'https://github.com/pranaysingh045/ZoblikTest.git'
+step 5:- run command pip install required.txt (using this all dependency will install)
+step 6:- now run python code using 'python fetchdata.py'
+
